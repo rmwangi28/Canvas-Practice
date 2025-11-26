@@ -16,8 +16,6 @@ Rectangle page with a custom-drawn filled rectangle
 
 HTML5 Canvas API
 
-Hand-written drawing logic (not cloned)
-
 Centered shapes using calculated coordinates
 
 Filled color styling + stroke outlines
@@ -28,5 +26,5 @@ Consistent page styling with background colors
 
 Clean folder structure
 
-Lightweight, no frameworks — just HTML, CSS, JS
+Lightweight, no frameworks just HTML, CSS, JS
 
